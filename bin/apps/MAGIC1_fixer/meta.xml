@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>MAGIC1 Fixer</name>
+	<version>1.0</version>
+        <release_date> </release_date>
+	<coder>Mr. eXoDia</coder>
+	<short_description>Fixes IOS236 installer's anti-piracy</short_description>
+	<long_description>Fixes the 'You are a pirate' message that you get if you made a mistake while installing the costum 236 IOS</long_description>
+</app>
